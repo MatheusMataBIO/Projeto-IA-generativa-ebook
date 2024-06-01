@@ -17,4 +17,4 @@ Faça um texto para ebook, com foco em ciência de dados, descrevendo a importâ
 
 > Traga exemplos reais de uso 
 
-> crie títulos utilizando os tipos de sharingans do anime naruto
+> Crie títulos utilizando os tipos de sharingans do anime naruto
