@@ -10,7 +10,7 @@ Utilizando o [Chat GPT](https://chatgpt.com/), o site [Midjourney](https://www.m
 Faça um texto para ebook, com foco em ciência de dados, descrevendo a importância de se aprender python, sql, hadoop, power BI, machine Learning e AWS
 
 {REGRAS}
-> Explique sempre de uma maneira simples
-> Deixe o texto enxuto
-> Traga exemplos reais de uso 
-> crie títulos utilizando os tipos de sharingans do anime naruto
+Explique sempre de uma maneira simples
+Deixe o texto enxuto
+Traga exemplos reais de uso 
+Crie títulos utilizando os tipos de sharingans do anime naruto
