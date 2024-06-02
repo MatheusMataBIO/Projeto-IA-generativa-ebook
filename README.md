@@ -5,7 +5,7 @@ O projeto por meio IA generativa e utilizando conceitos de prompts tem como obje
 
 Utilizando o [Chat GPT](https://chatgpt.com/), o site [Midjourney](https://www.midjourney.com/home) e conceitos de construção de prompts para construir um ebook descrevendo um roadmap de tecnologias que cientistas de dados costumam utilizar no seu dia a dia. E pensando em ser um ebook mais divertido e focado no público nerd foi utilizado os tipos de sharingan do personagem Sasuke do anime Naruto.
 
-[click aqui para leitura] 
+[click aqui para leitura](https://github.com/MatheusMataBIO/Projeto-IA-generativa-ebook/blob/main/sharingan%20(1).pdf)
 
 ## Prompt utilizado
 
