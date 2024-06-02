@@ -5,6 +5,8 @@ O projeto por meio IA generativa e utilizando conceitos de prompts tem como obje
 
 Utilizando o [Chat GPT](https://chatgpt.com/), o site [Midjourney](https://www.midjourney.com/home) e conceitos de construção de prompts para construir um ebook descrevendo um roadmap de tecnologias que cientistas de dados costumam utilizar no seu dia a dia. E pensando em ser um ebook mais divertido e focado no público nerd foi utilizado os tipos de sharingan do personagem Sasuke do anime Naruto.
 
+[click aqui para leitura] 
+
 ## Prompt utilizado
 
 Faça um texto para ebook, com foco em ciência de dados, descrevendo a importância de se aprender python, sql, hadoop, power BI, machine Learning e AWS
